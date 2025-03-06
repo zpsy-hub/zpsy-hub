@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zpsy-hub&show_icons=true&theme=aura)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zpsy-hub&layout=compact&theme=aura)
+
