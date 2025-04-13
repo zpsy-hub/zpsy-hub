@@ -29,16 +29,6 @@ Here are some ideas to get you started:
 - ☁ **Cloud & Databases:** MySQL
 - 🎨 **Visualization Tools** - Tableau, Power BI, Looker Studio, Excel, Google Sheets Dashboards
 
-### 📌 What I'm Working On
-🔹 Building **interactive dashboards**  
-🔹 Exploring **AI-powered data analysis**  
-🔹 Developing **a Django web app**  
-
-### 🌱 Learning Goals for 2025
-✔ Master **Machine Learning & AI**  
-✔ Contribute to **open-source projects**  
-✔ Build **a full-stack data visualization project**  
-
 💬 **Let’s Connect!**  
 📩 Reach me at **zghachero@gmail.com**  
 🔗 LinkedIn: [www.linkedin.com/in/zyra-camille-hachero](#)  
