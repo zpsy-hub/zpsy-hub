@@ -17,16 +17,9 @@ Here are some ideas to get you started:
 
 ### 🎓 About Me
 - 🎓 3rd-year IT student @ Mapúa Malayan Digital College (Data Analytics).
-- 💡 Passion for data visualization, analysis, and ML.
+- 💡 Passion for data visualization, analysis, and machine learning.
 - 📊 Aspiring Data Analyst.
 
-
-### 🔨 Tech Stack
-- 💻 **Programming:** Python, SQL, JavaScript
-- 📊 **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI
-- 🛠 **Frameworks & Tools:** Django, Flask, TensorFlow, Scikit-learn
-- ☁ **Cloud & Databases:** MySQL
-- 🎨 **Visualization Tools** - Tableau, Power BI, Looker Studio, Excel, Google Sheets Dashboards
 
 💬 **Let’s Connect!**  
 📩 Reach me at **zghachero@gmail.com**  
