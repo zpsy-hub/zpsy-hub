@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 # 👋 Hello, I'm Zyra! 
 
 ### 🎓 About Me
-- 🎓 I'm a **3rd-year IT student** at **Mapúa Malayan Digital College**, majoring in **Data Analytics**.
-- 💡 Passionate about **data visualization, analysis, and machine learning**.
-- 📊 Aspiring **Data Analyst** aiming to transform raw data into actionable insights.
-- 🖥 Currently learning **Python** and **Django** for backend development.
-- 🎯 Exploring **AI, Business Intelligence, and Predictive Analytics**.
+- 🎓 3rd-year IT student @ Mapúa Malayan Digital College (Data Analytics).
+- 💡 Passion for data visualization, analysis, and ML.
+- 📊 Aspiring Data Analyst.
+
 
 ### 🔨 Tech Stack
 - 💻 **Programming:** Python, SQL, JavaScript
